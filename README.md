@@ -32,10 +32,11 @@ object Krish : AndroidDeveloper(), ProblemSolver {
     override val pronouns    = "he/him"
 
     // ── Tech Arsenal ──────────────────────────────────────────
-    val languages  = listOf("Kotlin", "XML", "JSON")
+    val languages  = listOf("Kotlin", "Java", "XML", "JSON")
     val frameworks = listOf("Jetpack Compose", "MVVM", "Clean Architecture", "Coroutines")
-    val backend    = listOf("Firebase", "Room DB", "REST APIs", "Retrofit")
-    val aiTools    = listOf("Gemini AI", "Google ML Kit")
+    val backend    = listOf("Firebase", "Custom Backend", "Room DB", "REST APIs", "Retrofit", "Push Notifications")
+    val aiTools    = listOf("Gemini AI", "Groq", "OpenAI", "Google ML Kit")
+    val apis       = listOf("NASA API", "YouTube API", "Google Maps API", "REST API")
     val devTools   = listOf("Android Studio", "Git", "Postman", "Figma", "Gradle")
 
     // ── Currently ─────────────────────────────────────────────
@@ -69,17 +70,24 @@ object Krish : AndroidDeveloper(), ProblemSolver {
 
 ### 📱 Android & Mobile
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
 
 ### 🔥 Backend & Database
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Custom Backend](https://img.shields.io/badge/Custom%20Backend-0d1117?style=for-the-badge&logo=serverfault&logoColor=58A6FF)
 ![Room DB](https://img.shields.io/badge/Room%20DB-4CAF50?style=for-the-badge&logo=sqlite&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Push Notifications](https://img.shields.io/badge/Push%20Notifications-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white)
 
 ### 🤖 AI & APIs
 ![Gemini AI](https://img.shields.io/badge/Gemini%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![NASA API](https://img.shields.io/badge/NASA%20API-0B3D91?style=for-the-badge&logo=nasa&logoColor=white)
+![YouTube API](https://img.shields.io/badge/YouTube%20API-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
@@ -164,6 +172,9 @@ object Krish : AndroidDeveloper(), ProblemSolver {
 ---
 
 ## 🐍 Contribution Snake
+
+<div align="center">
+
 <img src="https://raw.githubusercontent.com/Krish-tech08/Krish-tech08/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
@@ -174,9 +185,9 @@ object Krish : AndroidDeveloper(), ProblemSolver {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krish-kumar-chaurasia)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krish-kumar-chaurasia-073a91310/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Krish-tech08)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishchaurasia890@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your_handle)
 
 </div>
