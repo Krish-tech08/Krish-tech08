@@ -131,7 +131,23 @@ object Krish : AndroidDeveloper(), ProblemSolver {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Krish-tech08&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Krish-tech08&theme=nord&no-frame=true&no-bg=true&column=6&margin-w=10" width="100%"/>
+
+</div>
+
+---
+
+## 🎖️ GitHub Achievements
+
+<div align="center">
+
+> 🌟 Badges earned on GitHub through real contributions & milestones
+
+| Badge | Achievement | What I did |
+|:---:|---|---|
+| 🦈 | **Pull Shark** | Merged pull requests like a pro |
+| 🎉 | **YOLO** | Merged a PR without review — shipped it! |
+| 🧊 | **Arctic Code Vault Contributor** | My code is literally frozen in the Arctic |
 
 </div>
 
@@ -142,6 +158,49 @@ object Krish : AndroidDeveloper(), ProblemSolver {
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krish-tech08&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FF6B6B" width="100%"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+> ⚙️ **Setup required:** Go to your `Krish-tech08` repo → **Actions** tab → Enable workflows → Add the snake workflow below and it will auto-generate!
+
+**Create this file:** `.github/workflows/snake.yml` in your `Krish-tech08` repo:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Krish-tech08
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Once set up, your snake will live here 👇
+
+<img src="https://raw.githubusercontent.com/Krish-tech08/Krish-tech08/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
@@ -161,9 +220,6 @@ object Krish : AndroidDeveloper(), ProblemSolver {
 ---
 
 <div align="center">
-
-<!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/Krish-tech08/Krish-tech08/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
