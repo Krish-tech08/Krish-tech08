@@ -19,19 +19,45 @@
 ## 🧑‍💻 About Me
 
 ```kotlin
-object Krish : AndroidDeveloper {
+import android.developer.Passion
+import real.world.ProblemSolver
 
-    val name     = "Krish Kumar Chaurasia"
-    val username = "Krish-tech08"
-    val role     = "Android Developer Intern 🚀"
-    val location = "India 🇮🇳"
+object Krish : AndroidDeveloper(), ProblemSolver {
 
-    val stack    = listOf("Kotlin", "Jetpack Compose", "Firebase", "Gemini AI", "MVVM", "Room DB")
-    val tools    = listOf("Android Studio", "Git", "Postman", "Figma")
+    // ── Identity ──────────────────────────────────────────────
+    override val name        = "Krish Kumar Chaurasia"
+    override val username    = "Krish-tech08"
+    override val role        = "Android Developer Intern 🚀"
+    override val location    = "India 🇮🇳"
+    override val pronouns    = "he/him"
 
-    val currentlyDoing = "Interning & building real-world Android apps"
-    val learning       = "Jetpack Compose • Clean Architecture • REST APIs"
-    val funFact        = "I debug with coffee and ship with confidence ☕"
+    // ── Tech Arsenal ──────────────────────────────────────────
+    val languages  = listOf("Kotlin", "XML", "JSON")
+    val frameworks = listOf("Jetpack Compose", "MVVM", "Clean Architecture", "Coroutines")
+    val backend    = listOf("Firebase", "Room DB", "REST APIs", "Retrofit")
+    val aiTools    = listOf("Gemini AI", "Google ML Kit")
+    val devTools   = listOf("Android Studio", "Git", "Postman", "Figma", "Gradle")
+
+    // ── Currently ─────────────────────────────────────────────
+    val status       = "💼 Interning & shipping real-world Android apps"
+    val learning     = "⚡ Jetpack Compose • Clean Architecture • REST APIs"
+    val openTo       = "🤝 Collaborations, Open Source & Cool Projects"
+
+    // ── Projects I'm proud of ─────────────────────────────────
+    val projects = mapOf(
+        "BookX"            to "📚 Book discovery app with Firebase",
+        "EduSpark"         to "🎓 AI-powered student learning platform",
+        "MonasteryVerse"   to "🏯 Sikkim cultural app (SIH Hackathon)",
+        "OrbitOps"         to "🛸 NASA Space App Challenge entry",
+        "ZestoFoodApp"     to "🍕 Food delivery experience",
+        "LostAndFound"     to "🔍 Community lost-item tracker"
+    )
+
+    // ── Fun Facts ─────────────────────────────────────────────
+    val funFact  = "I debug with coffee ☕ and ship with confidence 🔥"
+    val motto    = "Build apps that matter. Ship code that lasts."
+
+    override fun code() = Passion.ANDROID
 }
 ```
 
@@ -125,9 +151,9 @@ object Krish : AndroidDeveloper {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://[linkedin.com/in/krish-kumar-chaurasia](https://www.linkedin.com/in/krish-kumar-chaurasia-073a91310))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krish-kumar-chaurasia)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Krish-tech08)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishchaurasia890@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your_handle)
 
 </div>
