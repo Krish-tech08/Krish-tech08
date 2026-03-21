@@ -164,42 +164,6 @@ object Krish : AndroidDeveloper(), ProblemSolver {
 ---
 
 ## 🐍 Contribution Snake
-
-<div align="center">
-
-> ⚙️ **Setup required:** Go to your `Krish-tech08` repo → **Actions** tab → Enable workflows → Add the snake workflow below and it will auto-generate!
-
-**Create this file:** `.github/workflows/snake.yml` in your `Krish-tech08` repo:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Krish-tech08
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Once set up, your snake will live here 👇
-
 <img src="https://raw.githubusercontent.com/Krish-tech08/Krish-tech08/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
