@@ -119,6 +119,30 @@ object Krish : AndroidDeveloper(), ProblemSolver {
 
 ---
 
+## 🎮 Coming Soon to Play Store
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Google%20Play-Coming%20Soon-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white"/>
+
+```
+🔒 Something BIG is cooking...
+📦 Status   : [ ████████░░ ] 80% complete
+🎯 Platform : Google Play Store
+🤫 Name     : classified
+📅 ETA      : Soon™
+
+// Details are top secret 👀
+// Follow to be the first to know 🔔
+```
+
+[![Follow on GitHub](https://img.shields.io/badge/Follow%20@Krish--tech08-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Krish-tech08)
+[![Get Notified on LinkedIn](https://img.shields.io/badge/Get%20Notified-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krish-kumar-chaurasia-073a91310/)
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
