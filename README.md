@@ -159,16 +159,6 @@ object Krish : AndroidDeveloper(), ProblemSolver {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Krish-tech08&theme=nord&no-frame=true&no-bg=true&column=6&margin-w=10" width="100%"/>
-
-</div>
-
----
-
 ## 🎖️ GitHub Achievements
 
 <div align="center">
