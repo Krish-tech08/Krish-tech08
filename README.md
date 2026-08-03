@@ -46,6 +46,7 @@ object Krish : AndroidDeveloper(), ProblemSolver {
 
     // ── Projects I'm proud of ─────────────────────────────────
     val projects = mapOf(
+        "Grind Quest"      to "⚔️ Gamified RPG habit-tracker — LIVE on Play Store!",
         "BookX"            to "📚 Book discovery app with Firebase",
         "EduSpark"         to "🎓 AI-powered student learning platform",
         "MonasteryVerse"   to "🏯 Sikkim cultural app (SIH Hackathon)",
@@ -102,42 +103,50 @@ object Krish : AndroidDeveloper(), ProblemSolver {
 
 ---
 
+## ⚔️ Grind Quest — Now Live on Google Play!
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Google%20Play-Available%20Now-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white"/>
+
+### 🎮 Turn Your Real Life Into an RPG
+
+**Grind Quest** is a gamified productivity app where you complete real-life tasks, earn XP, level up, and stay motivated through fun, game-like mechanics. Build habits, defeat procrastination, and rank up — from **Beginner** all the way to **Master** — as you grind your way to a better you. ✨
+
+**✨ Highlights**
+- 📋 Turn daily tasks & habits into quests
+- ⭐ Earn XP and level up your character
+- 🏆 8-tier rank progression system
+- 🔒 Unlockable quests to keep you motivated
+- 🎨 Immersive dark/gold "Guild Board" aesthetic
+
+<br/>
+
+**📲 [Download Grind Quest on the Play Store](https://play.google.com/store/apps/details?id=com.catalystcore.grindquest&pcampaignid=web_share)**
+
+<br/>
+
+💝 **It's a solo indie project** — if you give it a try, an honest rating or review would mean the world and genuinely helps a new developer improve and grow. Every install counts! 🙌
+
+[![Download on Google Play](https://img.shields.io/badge/Download-Grind%20Quest-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.catalystcore.grindquest&pcampaignid=web_share)
+
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 <div align="center">
 
 | 📱 Project | 🔥 Description | 🛠️ Stack |
 |---|---|---|
+| [**⚔️ Grind Quest**](https://play.google.com/store/apps/details?id=com.catalystcore.grindquest&pcampaignid=web_share) | Gamified offline RPG habit-tracker — complete tasks, earn XP, rank up | `Kotlin` `Jetpack Compose` `Room DB` |
 | [**📚 BookX**](https://github.com/Krish-tech08/BookX) | Modern Android app to upload, browse & explore books with Firebase integration | `Kotlin` `Firebase` `MVVM` |
 | [**🎓 EduSpark**](https://github.com/Krish-tech08/EduSpark) | AI-powered student app with Gemini-2 chatbot, gamified learning & quizzes | `Kotlin` `Gemini AI` `Firebase` |
 | [**🍕 Zesto Food Delivery**](https://github.com/Krish-tech08/Zesto-Food-delivery-App-) | Seamless food delivery app with real-time ordering experience | `Kotlin` `Firebase` |
 | [**🏯 Monastery Verse**](https://github.com/Krish-tech08/Monestry-Verse-SIH-) | Showcases Sikkim's monasteries with panoramic views, Google Maps & Gemini AI search | `Kotlin` `Google Maps` `Gemini AI` |
 | [**🛸 Orbit Ops**](https://github.com/Krish-tech08/Orbit-Ops-NasaSpace-AppChallange) | NASA Space App Challenge — space exploration app with AI service integration | `Kotlin` `NASA API` `AI` |
 | [**🔍 Lost & Found**](https://github.com/Krish-tech08/Lost-Found-App) | Community-driven app to report and find lost items | `Kotlin` `Firebase` |
-
-</div>
-
----
-
-## 🎮 Coming Soon to Play Store
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Google%20Play-Coming%20Soon-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white"/>
-
-```
-🔒 Something BIG is cooking...
-📦 Status   : [ ████████░░ ] 80% complete
-🎯 Platform : Google Play Store
-🤫 Name     : classified
-📅 ETA      : Soon™
-
-// Details are top secret 👀
-// Follow to be the first to know 🔔
-```
-
-[![Follow on GitHub](https://img.shields.io/badge/Follow%20@Krish--tech08-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Krish-tech08)
-[![Get Notified on LinkedIn](https://img.shields.io/badge/Get%20Notified-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krish-kumar-chaurasia-073a91310/)
 
 </div>
 
