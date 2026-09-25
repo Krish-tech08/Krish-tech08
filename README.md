@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Krish%20Kumar%20Chaurasia&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Android%20Developer%20%7C%20Kotlin%20Enthusiast%20%7C%20Building%20Real-World%20Apps&descAlignY=60&descAlign=50&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Krish%20Kumar%20Chaurasia&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20%40%20CatalystCore%20Studios%20%7C%20Android%20Developer&descAlignY=60&descAlign=50&descSize=16" width="100%"/>
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey+there!+%F0%9F%91%8B+I'm+Krish;Android+Developer+%F0%9F%9A%80;Kotlin+%2B+Firebase+%2B+Gemini+AI;Building+apps+that+solve+real+problems+%F0%9F%92%A1;Currently+interning+%26+grinding+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey+there!+%F0%9F%91%8B+I'm+Krish;Founder+%40+CatalystCore+Studios;Android+Developer+%F0%9F%9A%80;Kotlin+%2B+Jetpack+Compose;Building+Real-World+Apps;Build.+Experiment.+Ship.+Learn.+Grow." alt="Typing SVG" />
 
 <br/>
 
@@ -27,9 +27,14 @@ object Krish : AndroidDeveloper(), ProblemSolver {
     // ── Identity ──────────────────────────────────────────────
     override val name        = "Krish Kumar Chaurasia"
     override val username    = "Krish-tech08"
-    override val role        = "Android Developer Intern 🚀"
+    override val role        = "Founder — CatalystCore Studios | Android Developer"
     override val location    = "India 🇮🇳"
     override val pronouns    = "he/him"
+
+    // ── CatalystCore Studios ──────────────────────────────────
+    val studio       = "CatalystCore Studios"
+    val studioMotto  = "Build. Experiment. Ship. Learn. Grow."
+    val focus        = "Building and shipping real Android products"
 
     // ── Tech Arsenal ──────────────────────────────────────────
     val languages  = listOf("Kotlin", "Java", "XML", "JSON")
@@ -40,19 +45,22 @@ object Krish : AndroidDeveloper(), ProblemSolver {
     val devTools   = listOf("Android Studio", "Git", "Postman", "Figma", "Gradle")
 
     // ── Currently ─────────────────────────────────────────────
-    val status       = "💼 Interning & shipping real-world Android apps"
-    val learning     = "⚡ Jetpack Compose • Clean Architecture • REST APIs"
+    val status       = "🚀 Building & shipping Android products under CatalystCore Studios"
+    val growing      = "📈 Growing CatalystCore Studios, one product at a time"
+    val exploring    = "🧪 Working on multiple product ideas in parallel"
+    val learning     = "⚡ Learning & improving production engineering practices"
     val openTo       = "🤝 Collaborations, Open Source & Cool Projects"
 
     // ── Projects I'm proud of ─────────────────────────────────
     val projects = mapOf(
-        "Grind Quest"      to "⚔️ Gamified RPG habit-tracker — LIVE on Play Store!",
-        "BookX"            to "📚 Book discovery app with Firebase",
-        "EduSpark"         to "🎓 AI-powered student learning platform",
-        "MonasteryVerse"   to "🏯 Sikkim cultural app (SIH Hackathon)",
-        "OrbitOps"         to "🛸 NASA Space App Challenge entry",
-        "ZestoFoodApp"     to "🍕 Food delivery experience",
-        "LostAndFound"     to "🔍 Community lost-item tracker"
+        "Grind Quest"          to "⚔️ Gamified RPG habit-tracker — LIVE on Play Store!",
+        "PDF & Image Toolkit"  to "📄 Offline PDF/image utility toolkit — LIVE on Play Store!",
+        "BookX"                to "📚 Book discovery app with Firebase",
+        "EduSpark"             to "🎓 AI-powered student learning platform",
+        "MonasteryVerse"       to "🏯 Sikkim cultural app (SIH Hackathon)",
+        "OrbitOps"             to "🛸 NASA Space App Challenge entry",
+        "ZestoFoodApp"         to "🍕 Food delivery experience",
+        "LostAndFound"         to "🔍 Community lost-item tracker"
     )
 
     // ── Fun Facts ─────────────────────────────────────────────
@@ -62,6 +70,75 @@ object Krish : AndroidDeveloper(), ProblemSolver {
     override fun code() = Passion.ANDROID
 }
 ```
+
+---
+
+## 🚀 CatalystCore Studios
+
+**CatalystCore Studios** is an independent product studio focused on building, experimenting with, and shipping real software products.
+
+Our philosophy is simple:
+
+**Build → Experiment → Ship → Learn → Grow**
+
+We don't want to build projects only for demos. The goal is to turn ideas into products, put them in the hands of real users, learn from what happens, and continuously improve.
+
+CatalystCore is currently founder-led and in its early stage, with a focus on increasing our ability to build and ship products.
+
+---
+
+## 📱 Published Products
+
+> These are not just project concepts — they are products we have actually built and published.
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚔️ Grind Quest: Habit Tracker RPG
+
+Turn real-life goals into quests. Earn XP, level up, build momentum, and treat personal growth like an RPG.
+
+**Status:** 🟢 Published on Google Play
+
+[![Get it on Google Play](https://img.shields.io/badge/Google%20Play-Grind%20Quest-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.catalystcore.grindquest)
+
+</td>
+<td width="50%" valign="top">
+
+### 📄 PDF & Image Toolkit
+
+An offline utility toolkit providing PDF and image processing tools directly on the device.
+
+**Status:** 🟢 Published on Google Play
+
+[![Get it on Google Play](https://img.shields.io/badge/Google%20Play-PDF%20%26%20Image%20Toolkit-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.catlystcore.pdfandimagetoolkit)
+
+</td>
+</tr>
+</table>
+
+**[🏢 View all CatalystCore Studios apps on Google Play →](https://play.google.com/store/apps/developer?id=CatalystCore+Studios)**
+
+</div>
+
+---
+
+## 🧠 Studio Philosophy
+
+<div align="center">
+
+| Step | What it means |
+|:---:|---|
+| 🔨 **BUILD** | Turn ideas into working products |
+| 🧪 **EXPERIMENT** | Not every idea needs to succeed |
+| 🚢 **SHIP** | Real users teach us more than assumptions |
+| 📚 **LEARN** | Every release gives us new information |
+| 🌱 **GROW** | Improve the product and the process with every iteration |
+
+</div>
 
 ---
 
@@ -126,7 +203,7 @@ object Krish : AndroidDeveloper(), ProblemSolver {
 
 <br/>
 
-💝 **It's a solo indie project** — if you give it a try, an honest rating or review would mean the world and genuinely helps a new developer improve and grow. Every install counts! 🙌
+💝 **It's a CatalystCore Studios product** — if you give it a try, an honest rating or review would mean the world and genuinely helps us improve. Every install counts! 🙌
 
 [![Download on Google Play](https://img.shields.io/badge/Download-Grind%20Quest-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.catalystcore.grindquest&pcampaignid=web_share)
 
@@ -136,11 +213,23 @@ object Krish : AndroidDeveloper(), ProblemSolver {
 
 ## 🚀 Featured Projects
 
+**Published Products (CatalystCore Studios)**
+
 <div align="center">
 
 | 📱 Project | 🔥 Description | 🛠️ Stack |
 |---|---|---|
 | [**⚔️ Grind Quest**](https://play.google.com/store/apps/details?id=com.catalystcore.grindquest&pcampaignid=web_share) | Gamified offline RPG habit-tracker — complete tasks, earn XP, rank up | `Kotlin` `Jetpack Compose` `Room DB` |
+| [**📄 PDF & Image Toolkit**](https://play.google.com/store/apps/details?id=com.catlystcore.pdfandimagetoolkit) | Offline PDF & image processing toolkit | `Kotlin` `Jetpack Compose` |
+
+</div>
+
+**Other Projects**
+
+<div align="center">
+
+| 📱 Project | 🔥 Description | 🛠️ Stack |
+|---|---|---|
 | [**📚 BookX**](https://github.com/Krish-tech08/BookX) | Modern Android app to upload, browse & explore books with Firebase integration | `Kotlin` `Firebase` `MVVM` |
 | [**🎓 EduSpark**](https://github.com/Krish-tech08/EduSpark) | AI-powered student app with Gemini-2 chatbot, gamified learning & quizzes | `Kotlin` `Gemini AI` `Firebase` |
 | [**🍕 Zesto Food Delivery**](https://github.com/Krish-tech08/Zesto-Food-delivery-App-) | Seamless food delivery app with real-time ordering experience | `Kotlin` `Firebase` |
@@ -218,6 +307,10 @@ object Krish : AndroidDeveloper(), ProblemSolver {
 ---
 
 <div align="center">
+
+Currently building, experimenting and shipping with **CatalystCore Studios**.
+
+**Build. Experiment. Ship. Learn. Grow.**
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
