@@ -1,320 +1,212 @@
+<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <div align="center">
 
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Krish%20Kumar%20Chaurasia&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20%40%20CatalystCore%20Studios%20%7C%20Android%20Developer&descAlignY=60&descAlign=50&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Krish%20Kumar%20Chaurasia&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Founder%20%40%20CatalystCore%20Studios%20%E2%80%A2%20Android%20Developer&descAlignY=62&descSize=18&stroke=58A6FF&strokeWidth=1" width="100%"/>
 
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey+there!+%F0%9F%91%8B+I'm+Krish;Founder+%40+CatalystCore+Studios;Android+Developer+%F0%9F%9A%80;Kotlin+%2B+Jetpack+Compose;Building+Real-World+Apps;Build.+Experiment.+Ship.+Learn.+Grow." alt="Typing SVG" />
+<a href="https://github.com/Krish-tech08">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+Hey%2C+I'm+Krish!;%F0%9F%9A%80+Founder+%40+CatalystCore+Studios;%F0%9F%93%B1+Kotlin+%2B+Jetpack+Compose+enthusiast;%E2%9A%94%EF%B8%8F+Shipped+2+apps+to+Google+Play;%F0%9F%94%81+Build.+Experiment.+Ship.+Learn.+Grow." alt="Typing SVG"/>
+</a>
 
 <br/>
 
-<!-- Profile Views + Followers Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=Krish-tech08&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/Krish-tech08?style=for-the-badge&color=58A6FF&labelColor=0d1117&label=FOLLOWERS)](https://github.com/Krish-tech08)
+<a href="https://www.linkedin.com/in/krish-kumar-chaurasia-073a91310/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:krishchaurasia890@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://play.google.com/store/apps/developer?id=CatalystCore+Studios"><img src="https://img.shields.io/badge/Play%20Store-CatalystCore-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white"/></a>
+<a href="https://instagram.com/your_handle"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Krish-tech08&color=58A6FF&style=flat-square&label=PROFILE+VIEWS"/>
+<a href="https://github.com/Krish-tech08"><img src="https://img.shields.io/github/followers/Krish-tech08?style=flat-square&color=58A6FF&labelColor=0d1117&label=FOLLOWERS"/></a>
+<img src="https://img.shields.io/badge/Apps%20Live-2-3DDC84?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Status-Shipping%20🚀-FF6B6B?style=flat-square&labelColor=0d1117"/>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🧑‍💻 About Me
-
-```kotlin
-import android.developer.Passion
-import real.world.ProblemSolver
-
-object Krish : AndroidDeveloper(), ProblemSolver {
-
-    // ── Identity ──────────────────────────────────────────────
-    override val name        = "Krish Kumar Chaurasia"
-    override val username    = "Krish-tech08"
-    override val role        = "Founder — CatalystCore Studios | Android Developer"
-    override val location    = "India 🇮🇳"
-    override val pronouns    = "he/him"
-
-    // ── CatalystCore Studios ──────────────────────────────────
-    val studio       = "CatalystCore Studios"
-    val studioMotto  = "Build. Experiment. Ship. Learn. Grow."
-    val focus        = "Building and shipping real Android products"
-
-    // ── Tech Arsenal ──────────────────────────────────────────
-    val languages  = listOf("Kotlin", "Java", "XML", "JSON")
-    val frameworks = listOf("Jetpack Compose", "MVVM", "Clean Architecture", "Coroutines")
-    val backend    = listOf("Firebase", "Custom Backend", "Room DB", "REST APIs", "Retrofit", "Push Notifications")
-    val aiTools    = listOf("Gemini AI", "Groq", "OpenAI", "Google ML Kit")
-    val apis       = listOf("NASA API", "YouTube API", "Google Maps API", "REST API")
-    val devTools   = listOf("Android Studio", "Git", "Postman", "Figma", "Gradle")
-
-    // ── Currently ─────────────────────────────────────────────
-    val status       = "🚀 Building & shipping Android products under CatalystCore Studios"
-    val growing      = "📈 Growing CatalystCore Studios, one product at a time"
-    val exploring    = "🧪 Working on multiple product ideas in parallel"
-    val learning     = "⚡ Learning & improving production engineering practices"
-    val openTo       = "🤝 Collaborations, Open Source & Cool Projects"
-
-    // ── Projects I'm proud of ─────────────────────────────────
-    val projects = mapOf(
-        "Grind Quest"          to "⚔️ Gamified RPG habit-tracker — LIVE on Play Store!",
-        "PDF & Image Toolkit"  to "📄 Offline PDF/image utility toolkit — LIVE on Play Store!",
-        "BookX"                to "📚 Book discovery app with Firebase",
-        "EduSpark"             to "🎓 AI-powered student learning platform",
-        "MonasteryVerse"       to "🏯 Sikkim cultural app (SIH Hackathon)",
-        "OrbitOps"             to "🛸 NASA Space App Challenge entry",
-        "ZestoFoodApp"         to "🍕 Food delivery experience",
-        "LostAndFound"         to "🔍 Community lost-item tracker"
-    )
-
-    // ── Fun Facts ─────────────────────────────────────────────
-    val funFact  = "I debug with coffee ☕ and ship with confidence 🔥"
-    val motto    = "Build apps that matter. Ship code that lasts."
-
-    override fun code() = Passion.ANDROID
-}
-```
-
----
-
-## 🚀 CatalystCore Studios
-
-**CatalystCore Studios** is an independent product studio focused on building, experimenting with, and shipping real software products.
-
-Our philosophy is simple:
-
-**Build → Experiment → Ship → Learn → Grow**
-
-We don't want to build projects only for demos. The goal is to turn ideas into products, put them in the hands of real users, learn from what happens, and continuously improve.
-
-CatalystCore is currently founder-led and in its early stage, with a focus on increasing our ability to build and ship products.
-
----
-
-## 📱 Published Products
-
-> These are not just project concepts — they are products we have actually built and published.
-
-<div align="center">
+<!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
-### ⚔️ Grind Quest: Habit Tracker RPG
+```kotlin
+object Krish : AndroidDeveloper() {
 
-Turn real-life goals into quests. Earn XP, level up, build momentum, and treat personal growth like an RPG.
+    val role     = "Founder @ CatalystCore Studios"
+    val location = "India 🇮🇳"
+    val pronouns = "he/him"
 
-**Status:** 🟢 Published on Google Play
+    val stack = listOf(
+        "Kotlin", "Jetpack Compose",
+        "MVVM", "Clean Architecture",
+        "Coroutines", "Firebase", "Room"
+    )
 
-[![Get it on Google Play](https://img.shields.io/badge/Google%20Play-Grind%20Quest-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.catalystcore.grindquest)
+    val currently = listOf(
+        "🚀 Shipping Android products",
+        "🧪 Prototyping new ideas in parallel",
+        "⚡ Levelling up production engineering"
+    )
+
+    val openTo   = "🤝 Collabs, open source & cool projects"
+    val funFact  = "Debugs with ☕, ships with 🔥"
+}
+```
 
 </td>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
-### 📄 PDF & Image Toolkit
+### ⚡ Quick Facts
 
-An offline utility toolkit providing PDF and image processing tools directly on the device.
-
-**Status:** 🟢 Published on Google Play
-
-[![Get it on Google Play](https://img.shields.io/badge/Google%20Play-PDF%20%26%20Image%20Toolkit-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.catlystcore.pdfandimagetoolkit)
+🏢 &nbsp;Running **CatalystCore Studios**<br/>
+📱 &nbsp;**2 apps live** on Google Play<br/>
+🏆 &nbsp;Built for **SIH** & **NASA Space Apps**<br/>
+🤖 &nbsp;Integrating **Gemini, Groq & OpenAI**<br/>
+🎯 &nbsp;Motto: *Build apps that matter.<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ship code that lasts.*
 
 </td>
 </tr>
 </table>
 
-**[🏢 View all CatalystCore Studios apps on Google Play →](https://play.google.com/store/apps/developer?id=CatalystCore+Studios)**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-</div>
+<!-- ═══════════════════════════ STUDIO ═══════════════════════════ -->
+## 🚀 CatalystCore Studios
 
----
-
-## 🧠 Studio Philosophy
-
-<div align="center">
-
-| Step | What it means |
-|:---:|---|
-| 🔨 **BUILD** | Turn ideas into working products |
-| 🧪 **EXPERIMENT** | Not every idea needs to succeed |
-| 🚢 **SHIP** | Real users teach us more than assumptions |
-| 📚 **LEARN** | Every release gives us new information |
-| 🌱 **GROW** | Improve the product and the process with every iteration |
-
-</div>
-
----
-
-## 🛠️ Tech Stack & Tools
+> An independent, founder-led product studio. Not demos — **real products in the hands of real users.**
 
 <div align="center">
 
-### 📱 Android & Mobile
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+```
+  🔨 BUILD  ──►  🧪 EXPERIMENT  ──►  🚢 SHIP  ──►  📚 LEARN  ──►  🌱 GROW
+     ▲                                                              │
+     └──────────────────────────  repeat  ◄─────────────────────────┘
+```
+
+</div>
+
+<!-- ═══════════════════════════ PRODUCTS ═══════════════════════════ -->
+## 📱 Live on Google Play
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+
+### ⚔️ Grind Quest
+**Habit Tracker RPG**
+
+Turn real-life goals into quests. Earn XP, level up through an **8-tier rank system**, unlock new quests, and defeat procrastination — all inside a dark & gold *Guild Board* world.
+
+`Kotlin` `Jetpack Compose` `Room DB`
+
+<a href="https://play.google.com/store/apps/details?id=com.catalystcore.grindquest&pcampaignid=web_share"><img src="https://img.shields.io/badge/GET%20IT%20ON-Google%20Play-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white"/></a>
+
+</td>
+<td width="50%" align="center" valign="top">
+
+### 📄 PDF & Image Toolkit
+**Offline Utility Suite**
+
+Everyday PDF and image tools that run **fully on-device** — fast, private, and no internet needed.
+
+<br/>
+
+`Kotlin` `Jetpack Compose`
+
+<a href="https://play.google.com/store/apps/details?id=com.catlystcore.pdfandimagetoolkit"><img src="https://img.shields.io/badge/GET%20IT%20ON-Google%20Play-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white"/></a>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+💝 <i>Tried one? An honest rating or review genuinely helps a small studio grow.</i>
+</p>
+
+<!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
+## 🧩 More Things I've Built
+
+<div align="center">
+
+| | Project | What it does | Stack |
+|:-:|---|---|---|
+| 📚 | [**BookX**](https://github.com/Krish-tech08/BookX) | Upload, browse & explore books | `Kotlin` `Firebase` `MVVM` |
+| 🎓 | [**EduSpark**](https://github.com/Krish-tech08/EduSpark) | AI study buddy with Gemini chatbot & gamified quizzes | `Kotlin` `Gemini AI` `Firebase` |
+| 🏯 | [**Monastery Verse**](https://github.com/Krish-tech08/Monestry-Verse-SIH-) | Sikkim's monasteries with panoramic views & AI search · *SIH* | `Kotlin` `Maps` `Gemini AI` |
+| 🛸 | [**Orbit Ops**](https://github.com/Krish-tech08/Orbit-Ops-NasaSpace-AppChallange) | Space exploration app · *NASA Space Apps* | `Kotlin` `NASA API` `AI` |
+| 🍕 | [**Zesto**](https://github.com/Krish-tech08/Zesto-Food-delivery-App-) | Food delivery with real-time ordering | `Kotlin` `Firebase` |
+| 🔍 | [**Lost & Found**](https://github.com/Krish-tech08/Lost-Found-App) | Community lost-item tracker | `Kotlin` `Firebase` |
+
+</div>
+
+<!-- ═══════════════════════════ TECH ═══════════════════════════ -->
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,sqlite,git,github,figma,postman,gradle&perline=10" />
+
+<br/><br/>
+
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
-
-### 🔥 Backend & Database
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Custom Backend](https://img.shields.io/badge/Custom%20Backend-0d1117?style=for-the-badge&logo=serverfault&logoColor=58A6FF)
-![Room DB](https://img.shields.io/badge/Room%20DB-4CAF50?style=for-the-badge&logo=sqlite&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Push Notifications](https://img.shields.io/badge/Push%20Notifications-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white)
-
-### 🤖 AI & APIs
-![Gemini AI](https://img.shields.io/badge/Gemini%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
+![Room](https://img.shields.io/badge/Room%20DB-4CAF50?style=for-the-badge&logo=sqlite&logoColor=white)
+![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge&logo=square&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini%20AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![NASA API](https://img.shields.io/badge/NASA%20API-0B3D91?style=for-the-badge&logo=nasa&logoColor=white)
-![YouTube API](https://img.shields.io/badge/YouTube%20API-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### 🧰 Dev Tools
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![ML Kit](https://img.shields.io/badge/ML%20Kit-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Maps](https://img.shields.io/badge/Google%20Maps-34A853?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 </div>
 
----
-
-## ⚔️ Grind Quest — Now Live on Google Play!
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Google%20Play-Available%20Now-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white"/>
-
-### 🎮 Turn Your Real Life Into an RPG
-
-**Grind Quest** is a gamified productivity app where you complete real-life tasks, earn XP, level up, and stay motivated through fun, game-like mechanics. Build habits, defeat procrastination, and rank up — from **Beginner** all the way to **Master** — as you grind your way to a better you. ✨
-
-**✨ Highlights**
-- 📋 Turn daily tasks & habits into quests
-- ⭐ Earn XP and level up your character
-- 🏆 8-tier rank progression system
-- 🔒 Unlockable quests to keep you motivated
-- 🎨 Immersive dark/gold "Guild Board" aesthetic
-
-<br/>
-
-**📲 [Download Grind Quest on the Play Store](https://play.google.com/store/apps/details?id=com.catalystcore.grindquest&pcampaignid=web_share)**
-
-<br/>
-
-💝 **It's a CatalystCore Studios product** — if you give it a try, an honest rating or review would mean the world and genuinely helps us improve. Every install counts! 🙌
-
-[![Download on Google Play](https://img.shields.io/badge/Download-Grind%20Quest-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.catalystcore.grindquest&pcampaignid=web_share)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-**Published Products (CatalystCore Studios)**
-
-<div align="center">
-
-| 📱 Project | 🔥 Description | 🛠️ Stack |
-|---|---|---|
-| [**⚔️ Grind Quest**](https://play.google.com/store/apps/details?id=com.catalystcore.grindquest&pcampaignid=web_share) | Gamified offline RPG habit-tracker — complete tasks, earn XP, rank up | `Kotlin` `Jetpack Compose` `Room DB` |
-| [**📄 PDF & Image Toolkit**](https://play.google.com/store/apps/details?id=com.catlystcore.pdfandimagetoolkit) | Offline PDF & image processing toolkit | `Kotlin` `Jetpack Compose` |
-
-</div>
-
-**Other Projects**
-
-<div align="center">
-
-| 📱 Project | 🔥 Description | 🛠️ Stack |
-|---|---|---|
-| [**📚 BookX**](https://github.com/Krish-tech08/BookX) | Modern Android app to upload, browse & explore books with Firebase integration | `Kotlin` `Firebase` `MVVM` |
-| [**🎓 EduSpark**](https://github.com/Krish-tech08/EduSpark) | AI-powered student app with Gemini-2 chatbot, gamified learning & quizzes | `Kotlin` `Gemini AI` `Firebase` |
-| [**🍕 Zesto Food Delivery**](https://github.com/Krish-tech08/Zesto-Food-delivery-App-) | Seamless food delivery app with real-time ordering experience | `Kotlin` `Firebase` |
-| [**🏯 Monastery Verse**](https://github.com/Krish-tech08/Monestry-Verse-SIH-) | Showcases Sikkim's monasteries with panoramic views, Google Maps & Gemini AI search | `Kotlin` `Google Maps` `Gemini AI` |
-| [**🛸 Orbit Ops**](https://github.com/Krish-tech08/Orbit-Ops-NasaSpace-AppChallange) | NASA Space App Challenge — space exploration app with AI service integration | `Kotlin` `NASA API` `AI` |
-| [**🔍 Lost & Found**](https://github.com/Krish-tech08/Lost-Found-App) | Community-driven app to report and find lost items | `Kotlin` `Firebase` |
-
-</div>
-
----
-
+<!-- ═══════════════════════════ STATS ═══════════════════════════ -->
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Krish-tech08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&count_private=true" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krish-tech08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=6" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Krish-tech08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=FF6B6B&text_color=c9d1d9&count_private=true&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krish-tech08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=6" height="170"/>
 
-<br/><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Krish-tech08&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=FF6B6B&fire=FF6B6B&currStreakLabel=58A6FF" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Krish-tech08&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" width="500"/>
+<details>
+<summary><b>📈 Click to see my contribution graph</b></summary>
+<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krish-tech08&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FF6B6B" width="100%"/>
+</details>
 
-</div>
+<details>
+<summary><b>🎖️ Achievements unlocked</b></summary>
+<br/>
 
----
-
-## 🎖️ GitHub Achievements
-
-<div align="center">
-
-> 🌟 Badges earned on GitHub through real contributions & milestones
-
-| Badge | Achievement | What I did |
-|:---:|---|---|
+| | Achievement | |
+|:-:|---|---|
 | 🦈 | **Pull Shark** | Merged pull requests like a pro |
 | 🎉 | **YOLO** | Merged a PR without review — shipped it! |
-| 🧊 | **Arctic Code Vault Contributor** | My code is literally frozen in the Arctic |
+| 🧊 | **Arctic Code Vault** | Code frozen in the Arctic for 1,000 years |
 
-</div>
+</details>
 
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krish-tech08&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FF6B6B" width="100%"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
+<br/>
 
 <img src="https://raw.githubusercontent.com/Krish-tech08/Krish-tech08/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
----
-
-## 🌐 Connect With Me
-
+<!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krish-kumar-chaurasia-073a91310/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Krish-tech08)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishchaurasia890@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your_handle)
+### 💬 Let's build something together
 
-</div>
+*Currently building, experimenting and shipping with* **CatalystCore Studios** ⚡
 
----
+<a href="mailto:krishchaurasia890@gmail.com"><img src="https://img.shields.io/badge/Say%20Hi-👋-58A6FF?style=for-the-badge&labelColor=0d1117"/></a>
 
-<div align="center">
+<sub>⭐ Like what you see? Drop a star on a repo — Made with ❤️ by Krish</sub>
 
-Currently building, experimenting and shipping with **CatalystCore Studios**.
-
-**Build. Experiment. Ship. Learn. Grow.**
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
-
-<sub>⭐ If you like my work, consider giving a star to my repos! Made with ❤️ by Krish</sub>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer" width="100%"/>
 
 </div>
