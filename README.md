@@ -10,6 +10,7 @@
 <a href="https://play.google.com/store/apps/developer?id=CatalystCore+Studios"><img src="https://img.shields.io/badge/Google%20Play-CatalystCore%20Studios-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=073042"/></a>
 <a href="https://www.linkedin.com/in/krish-kumar-chaurasia-073a91310/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:krishchaurasia890@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://krish.catalystcorestudios.com/"><img src="https://img.shields.io/badge/Portfolio-3DDC84?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://instagram.com/your_handle"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 <img src="https://komarev.com/ghpvc/?username=Krish-tech08&color=3DDC84&style=for-the-badge&label=📲+INSTALLS+(VIEWS)"/>
